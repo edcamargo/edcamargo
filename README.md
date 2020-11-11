@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hi!! I'm Edwin! </h1>
+<h1 align="center">👨‍💻 Hi! I'm Edwin! </h1>
 
 <p align="center">
  <a href="https://github.com/edcamargo/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-edcamargo-green?logo=github"></a>
