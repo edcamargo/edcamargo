@@ -17,7 +17,7 @@ I also have experience in Db PostSql, MySql, Orcle PL/SQL, Microsoft Sql Server 
 <h2> 🏆 Rank </h2>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=edcamargo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/DanAraujjo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edcamargo&layout=compact&hide_border=true)](https://github.com/DanAraujjo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edcamargo&layout=compact&hide_border=true)](https://github.com/edcamargo)
 
 
 <img width=950 src="https://github-profile-trophy.vercel.app/?username=edcamargo&margin-w=20 (https://github.com/ryo-ma/github-profile-trophy)">
