@@ -6,13 +6,6 @@
 </p>
 
 I live in Brazil and I'm a Software Engineer.
-I have graduated in Information System at University of Franca.
-
-I've been working as analist and software developer for nine years in large projects.
-
-In my professional carrer, I've got experience in Microsoft .Net Core, Angular, C#, Entity Framework, LINQ, WCF, MVC, .Net Web Api Restful with Jwt, Swagger and Microsoft Azure, Azure DevOps e AWS.
-
-I also have experience in Db PostSql, MySql, Orcle PL/SQL, Microsoft Sql Server and a litte MongoDb. 
 
 <h2> 🏆 Rank </h2>
 
