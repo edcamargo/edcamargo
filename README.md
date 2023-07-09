@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/edcamargo/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-edcamargo-green?logo=github"></a>
- <a href="https://www.linkedin.com/in/edwin-camargo-556848108/"><img alt="LinkedIn" src="https://img.shields.io/badge/edwin-camargo-556848108/?logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/edwin-camargo/"><img alt="LinkedIn" src="https://img.shields.io/badge/edwin-camargo/?logo=linkedin"></a>
 </p>
 
 I live in Brazil and I'm a Software Engineer.
